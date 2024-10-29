@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table{
+	border:solid black 5px;
+}
+#id{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
